@@ -1,0 +1,38 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+
+.container-wrapper {
+	background: #28378d;
+	box-shadow: 0px 15px 10px -15px #111;  
+}
+
+.blog-header {
+  line-height: 1;
+  border-bottom: 1px solid #ffc600;
+}
+
+.blog-header .logout-btn {
+  border-radius: 2rem;
+}
+
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+
+.avatar {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 32px;
+	width: 32px;
+	border-radius:6px;
+	background: gray;
+	color: #fff;
+	margin-right: 12px;
+}
+
+.media .comment-content {
+	padding-bottom:8px;
+}
+.media .comment-info {
+	margin-top: 5px;
+}

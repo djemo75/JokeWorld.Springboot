@@ -11,5 +11,7 @@ Frontend: HTML, CSS, JavaScript, Bootstrap, JQuery, Ajax
 
 Backend: Java, Springboot, Hibernate ORM, Java Persistence API
 
-## 
+### Начална страница
 ![image](https://user-images.githubusercontent.com/33227454/144745385-ec76b276-a972-45e7-8882-6a7deaae0377.png)
+### Преглед на шега
+![image](https://user-images.githubusercontent.com/33227454/144745631-d5ecf717-9024-4dad-a2f1-fe0089506255.png)
